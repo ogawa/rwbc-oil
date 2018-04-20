@@ -18,3 +18,10 @@
     (2) run script as "python ./gentool.py"
 
     Note: I have tested this script by python2.7.
+
+
+4, there are 2 templates
+    template_En_html
+    template_Jp_html
+    copy then and change their name, then add your content.
+    Using step 3, the header and foot will be added automatically.
