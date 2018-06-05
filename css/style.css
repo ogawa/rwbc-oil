@@ -404,3 +404,7 @@ tr.table-bottom-line {
 td.table-right-padding {
         padding: 0px 20px 0px 0px;
 }
+
+p.indent-block {
+        padding-left: 1em;
+}
